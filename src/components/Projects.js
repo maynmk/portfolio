@@ -10,7 +10,7 @@ const [listProjects] = useState([
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
     mission: 'Como desenvolvedores, nossa missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
     language: 'HTML5, CSS3, React JS.',
-    images: 'project1.png',
+    images: 'public/project1.png',
     link: 'https://maynmk.github.io/https-maynmk.github.io-//'
   },
   {
@@ -18,7 +18,7 @@ const [listProjects] = useState([
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
     mission: 'Como desenvolvedores, nossa missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
     language: 'HTML5, CSS3, JS.',
-    images: '/project2.PNG',
+    images: 'project2.PNG',
     link: 'https://maynmk.github.io/https-maynmk.github.io-//'
   },
   {
@@ -26,7 +26,7 @@ const [listProjects] = useState([
     des: 'Eu voluptate sit do labore consectetur in ad esse qui laborum ad eiusmod. Esse ea velit culpa exercitation anim enim reprehenderit. Fugiat nostrud non dolore aliquip quis in ea amet duis.',
     mission: 'Back-end Developer, system analysis and design',
     language: 'HTML5, CSS3, React JS, SockerIO,...',
-    images: '/project2.PNG'
+    images: 'project2.PNG'
   },
 
 ]);
