@@ -8,26 +8,20 @@ const [listProjects] = useState([
   {
     name: 'BELÉM M LIMP',
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    mission: 'Como desenvolvedores, nossa missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
-    language: 'HTML5, CSS3, React JS.',
-    images: 'public/project1.png',
-    link: 'https://maynmk.github.io/https-maynmk.github.io-//'
-  },
-  {
-    name: 'Design E Construction',
-    des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    mission: 'Como desenvolvedores, nossa missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
     language: 'HTML5, CSS3, JS.',
-    images: 'public/project2.png',
-    link: 'https://maynmk.github.io/https-maynmk.github.io-//'
+    images: 'project1.png',
+    link: 'https://maynmk.github.io/Belem-m-limp/'
   },
   {
-    name: 'Project Real-time chating in website',
-    des: 'Eu voluptate sit do labore consectetur in ad esse qui laborum ad eiusmod. Esse ea velit culpa exercitation anim enim reprehenderit. Fugiat nostrud non dolore aliquip quis in ea amet duis.',
-    mission: 'Back-end Developer, system analysis and design',
-    language: 'HTML5, CSS3, React JS, SockerIO,...',
-    images: 'public/project2.png'
+    name: 'Design & Construction',
+    des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
+    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    language: 'HTML5, CSS3, JS.',
+    images: 'project2.png',
+    link: 'https://maynmk.github.io/WELCOME-TO-NBDA-ARCHITECTS/'
   },
+ 
 
 ]);
 const divs = useRef([]);

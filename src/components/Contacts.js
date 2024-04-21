@@ -8,17 +8,17 @@ function Contacts() {
 const [listContacts] = useState([
   {
     
-    link:'isd',
+    link:'https://www.linkedin.com/in/mayson-santos-silva-a61543144',
     icon: faLinkedin
   },{
-    link:'isd',
+    link:'https://wa.me/qr/HJQDMSRSSF5UA1',
     icon: faWhatsapp
   },{
-    link:'isd',
+    link:'mailto:maysonsantos46@gmail.com',
     icon: faEnvelope
   },
   {
-    link:'isd',
+    link:'https://github.com/maynmk',
     icon: faGithub
   }
 ])
