@@ -2,8 +2,8 @@ import './App.css'
 import NavBar from './components/NavBar'
 import Home from './components/Home'
 import Skills from './components/Skills'
-import Projects from './components/Projects'
-import Contacts from './components/Contacts'
+import Projetos from './components/Projects'
+import Contatos from './components/Contacts'
 
 
 function App() {
@@ -13,8 +13,8 @@ function App() {
       <NavBar />
       <Home />
       <Skills />
-      <Projects />
-      <Contacts />
+      <Projetos />
+      <Contatos />
     </main>
   );
 }
