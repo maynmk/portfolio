@@ -21,6 +21,14 @@ const [listProjects] = useState([
     images: 'project2.png',
     link: 'https://maynmk.github.io/WELCOME-TO-NBDA-ARCHITECTS/'
   },
+  {
+    name: 'How I Met Your Mother',
+    des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
+    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    language: 'HTML5, CSS3, JS.',
+    images: 'how.jpg',
+    link: 'https://maynmk.github.io/HIMYM/'
+  }
  
 
 ]);
