@@ -59,6 +59,11 @@ const [listSkills] = useState([
     name: 'GitHub',
     des: 'Uma plataforma de hospedagem de código-fonte e controle de versão usando Git, muito popular entre desenvolvedores.',
     icon: faGithub, 
+  },
+  {
+    name: 'Vue.js',
+    des: 'Um framework progressivo para construir interfaces de usuário. É projetado para ser adotado de forma incremental e é conhecido por sua simplicidade e flexibilidade.',
+    icon: faVuejs,
   }
 
 ]);
