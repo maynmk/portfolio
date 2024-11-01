@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react' 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faReact, faHtml5, faCss3, faJs, faFigma, faNodeJs, faWordpress, faJoomla, faVuejs, faElementor, faGolang, faGithub} from '@fortawesome/free-brands-svg-icons';
-import { faDatabase } from '@fortawesome/free-solid-svg-icons';
+import { faDatabase, faMagnifyingGlass  } from '@fortawesome/free-solid-svg-icons';
 import CustomHook from './CustomHook';
 
 function Skills() {
@@ -84,6 +84,11 @@ const [listSkills] = useState([
     name: 'Elementor',
     des: 'Um construtor de páginas para WordPress que permite criar layouts personalizados usando uma interface de arrastar e soltar.',
     icon: faElementor,
+  },
+  {
+    name: 'SEO',
+    des: 'O processo de otimização de sites para melhorar sua visibilidade em mecanismos de busca e aumentar o tráfego orgânico.',
+    icon: faMagnifyingGlass,
   }
 ]);
   return (
