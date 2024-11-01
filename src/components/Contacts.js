@@ -11,10 +11,10 @@ const [listContacts] = useState([
     link:'https://www.linkedin.com/in/mayson-santos-silva-a61543144',
     icon: faLinkedin
   },{
-    link:'https://wa.me/qr/HJQDMSRSSF5UA1',
+    link:'https://wa.me/5562981929920?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços!',
     icon: faWhatsapp
   },{
-    link:'mailto:maysonsantos46@gmail.com',
+    link:'href="mailto:maysonsantos46@gmail.com?subject=Contato%20do%20Site&body=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços!">',
     icon: faEnvelope
   },
   {
