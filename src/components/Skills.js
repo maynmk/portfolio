@@ -64,8 +64,17 @@ const [listSkills] = useState([
     name: 'Vue.js',
     des: 'Um framework progressivo para construir interfaces de usuário. É projetado para ser adotado de forma incremental e é conhecido por sua simplicidade e flexibilidade.',
     icon: faVuejs,
+  },
+  {
+    name: 'Joomla',
+    des: 'Outro CMS popular, conhecido por sua flexibilidade e extensibilidade, ideal para sites de médio a grande porte, permitindo uma gestão robusta de conteúdo.',
+    icon: faJoomla 
+  },
+  {
+    name: 'Elementor',
+    des: 'Um construtor de páginas para WordPress que permite criar layouts personalizados usando uma interface de arrastar e soltar.',
+    icon: faElementor,
   }
-
 ]);
   return (
     <section className='skills' ref={scrollTab}>
