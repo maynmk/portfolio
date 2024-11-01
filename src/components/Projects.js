@@ -28,6 +28,14 @@ const [listProjects] = useState([
     language: 'HTML5, CSS3, JS.',
     images: 'how.jpg',
     link: 'https://maynmk.github.io/HIMYM/'
+  },
+  {
+    name: 'ESTETITEC ESTÉTICA GOIAS',
+    des: 'Desenvolvido com Elementor no WordPress, o layout é estruturado para reorganizar elementos visuais como menus, botões e blocos de texto conforme o tamanho da tela, mantendo a legibilidade e a acessibilidade em qualquer resolução.',
+    mission: 'O site da ESTETITEC ESTÉTICA GOIÁS foi desenvolvido para comunicar de forma clara e profissional os serviços de manutenção técnica especializada oferecidos pela empresa.',
+    language: 'WordPress,Elementor.',
+    images: 'estetitec.png',
+    link: 'https://estetitecgoias.com.br/'
   }
  
 

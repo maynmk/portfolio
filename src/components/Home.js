@@ -12,8 +12,8 @@ return (
             </div>
             <div className="des">
                 {/* 30 */}
-                um apaixonado desenvolvedor front-end com uma sede insaciável de criar experiências digitais memoráveis e funcionais. Meu percurso começa com minha formação em Análise e Desenvolvimento de Sistemas, uma jornada que solidificou minha compreensão dos pilares da computação e da lógica de programação. No entanto, é no desenvolvimento front-end que encontrei minha verdadeira vocação.
-                Focando inteiramente no front-end, mergulhei de cabeça no universo do HTML, CSS e JavaScript, explorando cada linha de código . Cada projeto é uma oportunidade de dar vida a conceitos abstratos, transformando-os em interfaces intuitivas e visualmente deslumbrantes.</div>
+                Com experiência sólida em desenvolvimento web e design gráfico, sou um desenvolvedor front-end dedicado à criação de interfaces funcionais e otimizadas. Atualmente atuando como web designer na ATN Tecnologia, desenvolvo sites institucionais e páginas de destino personalizadas com tecnologias como PHP, HTML, CSS e Elementor no WordPress. Minha expertise inclui a criação de identidades visuais e logomarcas, desenvolvimento de interfaces no Figma, e a aplicação de estratégias de SEO e copywriting para aumentar a visibilidade digital.
+                Possuo habilidades em Vue.js, React.js, Node.js, e sou especializado em design de UI/UX, desenvolvimento de landing pages e SEO. Além disso, gerencio campanhas de tráfego pago em plataformas como Facebook Ads, Google Ads e TikTok Ads, com foco em maximizar o alcance e conversões.</div>
             
             <a href="Cvmaysonsantos.pdf" target="_blank" rel="noopener noreferrer" className='animation active '>
                 Meu currículo
