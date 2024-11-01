@@ -36,9 +36,15 @@ const [listProjects] = useState([
     language: 'WordPress,Elementor.',
     images: 'estetitec.png',
     link: 'https://estetitecgoias.com.br/'
+  },
+  {
+    name: 'Loja Cloud',
+    des: 'Desenvolvido com Elementor no WordPress, o layout é otimizado para oferecer uma experiência de compra intuitiva e acessível, adaptando-se a diferentes tamanhos de tela e dispositivos, garantindo uma navegação fluida e a visualização adequada dos produtos.',
+    mission: 'O site da Loja Cloud tem como missão fornecer uma plataforma online confiável e amigável, onde os clientes podem encontrar uma variedade de produtos de qualidade, com informações claras e um processo de compra simplificado.',
+    language: 'WordPress,Elementor,Php',
+    images: 'drop.png',
+    link: 'https://lojacloud.com.br/'
   }
- 
-
  
 
 ]);

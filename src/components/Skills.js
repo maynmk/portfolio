@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react' 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faHtml5, faCss3, faJs, faFigma, faNodeJs, faWordpress, faJoomla, faVuejs, faElementor, faSearch, faGolang} from '@fortawesome/free-brands-svg-icons';
+import { faReact, faHtml5, faCss3, faJs, faFigma, faNodeJs, faWordpress, faJoomla, faVuejs, faElementor, faSearch, faGolang, faGithub} from '@fortawesome/free-brands-svg-icons';
 import { faDatabase } from '@fortawesome/free-solid-svg-icons';
 import CustomHook from './CustomHook';
 
@@ -74,6 +74,11 @@ const [listSkills] = useState([
     name: 'SEO',
     des: 'O processo de otimização de sites para melhorar sua visibilidade em mecanismos de busca e aumentar o tráfego orgânico.',
     icon: faSearch,
+  },
+  {
+    name: 'GitHub',
+    des: 'Uma plataforma de hospedagem de código-fonte e controle de versão usando Git, muito popular entre desenvolvedores.',
+    icon: faGithub, 
   }
 
 ]);
