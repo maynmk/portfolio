@@ -2,7 +2,7 @@ import React, { useState, useRef } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import CustomHook from './CustomHook';
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+
 
 function Contacts() {
 const [listContacts] = useState([
