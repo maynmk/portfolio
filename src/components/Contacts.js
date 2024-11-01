@@ -13,9 +13,6 @@ const [listContacts] = useState([
   },{
     link:'https://wa.me/5562981929920?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços!',
     icon: faWhatsapp
-  },{
-    link:'href="mailto:maysonsantos46@gmail.com?subject=Contato%20do%20Site&body=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços!">',
-    icon: faEnvelope
   },
   {
     link:'https://github.com/maynmk',
@@ -33,7 +30,7 @@ CustomHook(scrollTab, divs);
        </div>
        <div className="des" ref={(el) => el && divs.current.push(el)}>
         {/* 20 */}
-        Olá! Estou sempre aberto a novas oportunidades e adoraria conectar-me com você. Não hesite em entrar em contato se quiser discutir projetos interessantes, colaborações ou apenas para trocar ideias sobre tecnologia e desenvolvimento web. Estou ansioso para conversar e conhecer mais pessoas incríveis como você!
+        Olá! Estou sempre aberto a novas oportunidades e adoraria conectar-me com você. Não hesite em entrar em contato se quiser discutir projetos interessantes, colaborações ou apenas para trocar ideias sobre tecnologia e desenvolvimento web. Estou ansioso para conversar e conhecer mais pessoas incríveis como você! maysonsantos45@gmail.com
        </div>
        <div className="list"  ref={(el) => el && divs.current.push(el)}>
         {
