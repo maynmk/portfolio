@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react' 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faHtml5, faCss3, faJs, faFigma, faNodeJs} from '@fortawesome/free-brands-svg-icons';
+import { faReact, faHtml5, faCss3, faJs, faFigma, faNodeJs, faWordpress} from '@fortawesome/free-brands-svg-icons';
 import { faDatabase } from '@fortawesome/free-solid-svg-icons';
 import CustomHook from './CustomHook';
 
@@ -43,6 +43,16 @@ const [listSkills] = useState([
     name: 'MySQL',
     des: 'é um tipo de banco de dados relacional, o que significa que organiza os dados em tabelas relacionadas umas às outras. Isso torna mais fácil para os desenvolvedores encontrar, manipular e analisar os dados.',
     icon: faDatabase
+  },
+  {
+    name: 'WordPress',
+    des: 'é um sistema de gerenciamento de conteúdo (CMS) popular que permite aos usuários criar e gerenciar sites com facilidade. Com uma vasta biblioteca de temas e plugins, o WordPress é altamente personalizável e acessível para iniciantes e profissionais.',
+    icon: faWordpress
+  },
+  {
+    name: 'HTML',
+    des: ' é a linguagem fundamental para criar páginas da web. Ele define a estrutura e o conteúdo de uma página, permitindo que os desenvolvedores criem experiências de usuário ricas e interativas na web. Dominar HTML é essencial para qualquer pessoa envolvida no desenvolvimento web e é frequentemente combinado com outras tecnologias, como CSS e JavaScript, para criar páginas da web dinâmicas e atraentes.',
+    icon: faHtml5
   }
 
 ]);
