@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react' 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faHtml5, faCss3, faJs, faFigma, faNodeJs, faWordpress} from '@fortawesome/free-brands-svg-icons';
+import { faReact, faHtml5, faCss3, faJs, faFigma, faNodeJs, faWordpress, faJoomla, faVuejs, faElementor, faSearch, faGolang} from '@fortawesome/free-brands-svg-icons';
 import { faDatabase } from '@fortawesome/free-solid-svg-icons';
 import CustomHook from './CustomHook';
 
@@ -23,7 +23,13 @@ const [listSkills] = useState([
   {
     name: 'Javascript',
     des: 'é uma linguagem de programação amplamente utilizada para desenvolvimento web. Ela permite adicionar interatividade e dinamismo às páginas da web, permitindo que os desenvolvedores criem funcionalidades como animações, validação de formulários, manipulação de eventos e muito mais.',
-    icon: faJs},
+    icon: faJs
+  },
+  {
+    name: 'Golang',
+    des: 'Uma linguagem de programação desenvolvida pelo Google, conhecida por sua simplicidade e eficiência em aplicações de rede.',
+    icon: faGolang, 
+  },
   {
     name: 'ReactJs',
     des: 'ReactJS segue uma abordagem baseada em componentes, o que significa que as interfaces de usuário são construídas a partir de pequenos blocos de construção chamados componentes. Esses componentes podem ser reutilizados em toda a aplicação, facilitando a manutenção e a escalabilidade do código.',
@@ -50,9 +56,24 @@ const [listSkills] = useState([
     icon: faWordpress
   },
   {
-    name: 'HTML',
-    des: ' é a linguagem fundamental para criar páginas da web. Ele define a estrutura e o conteúdo de uma página, permitindo que os desenvolvedores criem experiências de usuário ricas e interativas na web. Dominar HTML é essencial para qualquer pessoa envolvida no desenvolvimento web e é frequentemente combinado com outras tecnologias, como CSS e JavaScript, para criar páginas da web dinâmicas e atraentes.',
-    icon: faHtml5
+    name: 'Vue.js',
+    des: 'Um framework progressivo para construir interfaces de usuário. É projetado para ser adotado de forma incremental e é conhecido por sua simplicidade e flexibilidade.',
+    icon: faVuejs,
+  },
+  {
+    name: 'Joomla',
+    des: 'Outro CMS popular, conhecido por sua flexibilidade e extensibilidade, ideal para sites de médio a grande porte, permitindo uma gestão robusta de conteúdo.',
+    icon: faJoomla 
+  },
+  {
+    name: 'Elementor',
+    des: 'Um construtor de páginas para WordPress que permite criar layouts personalizados usando uma interface de arrastar e soltar.',
+    icon: faElementor,
+  },
+  {
+    name: 'SEO',
+    des: 'O processo de otimização de sites para melhorar sua visibilidade em mecanismos de busca e aumentar o tráfego orgânico.',
+    icon: faSearch,
   }
 
 ]);
