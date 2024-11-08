@@ -36,11 +36,6 @@ const [listSkills] = useState([
     icon: faReact
   },
   {
-    name: 'Figma',
-    des: 'possui uma interface de usuário intuitiva e fácil de usar, que permite aos designers criar e editar designs sem a necessidade de software desktop pesado. A interface é baseada em navegadores da web, tornando-a acessível em diferentes sistemas operacionais e dispositivos.',
-    icon: faFigma
-  },
-  {
     name: 'Node',
     des: 'possui um ecossistema robusto de módulos, fornecido pelo npm (Node Package Manager), que é o maior repositório de pacotes de software do mundo. Os desenvolvedores podem facilmente instalar e gerenciar dependências de seus projetos usando o npm, o que acelera o desenvolvimento e permite a reutilização de código.',
     icon: faNodeJs
@@ -49,11 +44,6 @@ const [listSkills] = useState([
     name: 'MySQL',
     des: 'é um tipo de banco de dados relacional, o que significa que organiza os dados em tabelas relacionadas umas às outras. Isso torna mais fácil para os desenvolvedores encontrar, manipular e analisar os dados.',
     icon: faDatabase
-  },
-  {
-    name: 'WordPress',
-    des: 'é um sistema de gerenciamento de conteúdo (CMS) popular que permite aos usuários criar e gerenciar sites com facilidade. Com uma vasta biblioteca de temas e plugins, o WordPress é altamente personalizável e acessível para iniciantes e profissionais.',
-    icon: faWordpress
   },
   {
     name: 'GitHub',
@@ -70,10 +60,20 @@ const [listSkills] = useState([
     des: 'Outro CMS popular, conhecido por sua flexibilidade e extensibilidade, ideal para sites de médio a grande porte, permitindo uma gestão robusta de conteúdo.',
     icon: faJoomla 
   },
+    {
+    name: 'WordPress',
+    des: 'é um sistema de gerenciamento de conteúdo (CMS) popular que permite aos usuários criar e gerenciar sites com facilidade. Com uma vasta biblioteca de temas e plugins, o WordPress é altamente personalizável e acessível para iniciantes e profissionais.',
+    icon: faWordpress
+  },
   {
     name: 'Elementor',
     des: 'Um construtor de páginas para WordPress que permite criar layouts personalizados usando uma interface de arrastar e soltar.',
     icon: faElementor,
+  },
+   {
+    name: 'Figma',
+    des: 'possui uma interface de usuário intuitiva e fácil de usar, que permite aos designers criar e editar designs sem a necessidade de software desktop pesado. A interface é baseada em navegadores da web, tornando-a acessível em diferentes sistemas operacionais e dispositivos.',
+    icon: faFigma
   },
   {
     name: 'SEO',
