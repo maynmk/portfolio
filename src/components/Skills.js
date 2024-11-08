@@ -76,16 +76,6 @@ const [listSkills] = useState([
     icon: faElementor,
   },
   {
-    name: 'Joomla',
-    des: 'Outro CMS popular, conhecido por sua flexibilidade e extensibilidade, ideal para sites de médio a grande porte, permitindo uma gestão robusta de conteúdo.',
-    icon: faJoomla 
-  },
-  {
-    name: 'Elementor',
-    des: 'Um construtor de páginas para WordPress que permite criar layouts personalizados usando uma interface de arrastar e soltar.',
-    icon: faElementor,
-  },
-  {
     name: 'SEO',
     des: 'O processo de otimização de sites para melhorar sua visibilidade em mecanismos de busca e aumentar o tráfego orgânico.',
     icon: faMagnifyingGlass,
