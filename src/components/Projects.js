@@ -8,40 +8,40 @@ const [listProjects] = useState([
   {
     name: 'BELÉM M LIMP',
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    Missão: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
-    Linguagem: 'HTML5, CSS3, JS.',
+    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    language: 'HTML5, CSS3, JS.',
     images: 'project1.png',
     link: 'https://maynmk.github.io/Belem-m-limp/'
   },
   {
     name: 'Design & Construction',
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    Missão: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
-    Linguagem: 'HTML5, CSS3, JS.',
+    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    language: 'HTML5, CSS3, JS.',
     images: 'project2.png',
     link: 'https://maynmk.github.io/WELCOME-TO-NBDA-ARCHITECTS/'
   },
   {
     name: 'How I Met Your Mother',
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    Missão: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
-    Linguagem: 'HTML5, CSS3, JS.',
+    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    language: 'HTML5, CSS3, JS.',
     images: 'how.jpg',
     link: 'https://maynmk.github.io/HIMYM/'
   },
   {
     name: 'ESTETITEC ESTÉTICA GOIAS',
     des: 'Desenvolvido com Elementor no WordPress, o layout é estruturado para reorganizar elementos visuais como menus, botões e blocos de texto conforme o tamanho da tela, mantendo a legibilidade e a acessibilidade em qualquer resolução.',
-    Missão: 'O site da ESTETITEC ESTÉTICA GOIÁS foi desenvolvido para comunicar de forma clara e profissional os serviços de manutenção técnica especializada oferecidos pela empresa.',
-    Linguagem: 'WordPress,Elementor.',
+    mission: 'O site da ESTETITEC ESTÉTICA GOIÁS foi desenvolvido para comunicar de forma clara e profissional os serviços de manutenção técnica especializada oferecidos pela empresa.',
+    language: 'WordPress,Elementor.',
     images: 'estetitec.png',
     link: 'https://estetitecgoias.com.br/'
   },
   {
     name: 'Loja Cloud',
     des: 'Desenvolvido com Elementor no WordPress, o layout é otimizado para oferecer uma experiência de compra intuitiva e acessível, adaptando-se a diferentes tamanhos de tela e dispositivos, garantindo uma navegação fluida e a visualização adequada dos produtos.',
-    Missão: 'O site da Loja Cloud tem como missão fornecer uma plataforma online confiável e amigável, onde os clientes podem encontrar uma variedade de produtos de qualidade, com informações claras e um processo de compra simplificado.',
-    Linguagem: 'WordPress,Elementor,Php',
+    mission: 'O site da Loja Cloud tem como missão fornecer uma plataforma online confiável e amigável, onde os clientes podem encontrar uma variedade de produtos de qualidade, com informações claras e um processo de compra simplificado.',
+    language: 'WordPress,Elementor,Php',
     images: 'drop.png',
     link: 'https://lojacloud.com.br/'
   }
@@ -74,14 +74,14 @@ CustomHook(scrollTab, divs);
                 <div className="mission">
                     <div><FontAwesomeIcon icon={faPersonCircleQuestion} /></div>
                     <div>
-                        <h4>Mission</h4>
+                        <h4>Missão</h4>
                         <div className="des">{value.mission}</div>
                     </div>
                 </div>
                 <div className="mission">
                     <div><FontAwesomeIcon icon={faEarthAmericas} /></div>
                     <div>
-                        <h4>Languages</h4>
+                        <h4>Linguagem</h4>
                         <div className="des">{value.language}</div>
                     </div>
                 </div>
