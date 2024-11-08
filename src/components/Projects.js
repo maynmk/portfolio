@@ -8,40 +8,40 @@ const [listProjects] = useState([
   {
     name: 'BELÉM M LIMP',
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
-    language: 'HTML5, CSS3, JS.',
+    Missão: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    Linguagem: 'HTML5, CSS3, JS.',
     images: 'project1.png',
     link: 'https://maynmk.github.io/Belem-m-limp/'
   },
   {
     name: 'Design & Construction',
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
-    language: 'HTML5, CSS3, JS.',
+    Missão: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    Linguagem: 'HTML5, CSS3, JS.',
     images: 'project2.png',
     link: 'https://maynmk.github.io/WELCOME-TO-NBDA-ARCHITECTS/'
   },
   {
     name: 'How I Met Your Mother',
     des: 'O design da página é responsivo, o que significa que se adapta de forma elegante a diferentes tamanhos de tela e dispositivos. Isso garante uma experiência de usuário consistente, independentemente do dispositivo utilizado para acessar a página.',
-    mission: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
-    language: 'HTML5, CSS3, JS.',
+    Missão: 'Como desenvolvedor, minha missão é garantir realizar análise e design do sistema para oferecer uma experiência de usuário fluida e segura.',
+    Linguagem: 'HTML5, CSS3, JS.',
     images: 'how.jpg',
     link: 'https://maynmk.github.io/HIMYM/'
   },
   {
     name: 'ESTETITEC ESTÉTICA GOIAS',
     des: 'Desenvolvido com Elementor no WordPress, o layout é estruturado para reorganizar elementos visuais como menus, botões e blocos de texto conforme o tamanho da tela, mantendo a legibilidade e a acessibilidade em qualquer resolução.',
-    mission: 'O site da ESTETITEC ESTÉTICA GOIÁS foi desenvolvido para comunicar de forma clara e profissional os serviços de manutenção técnica especializada oferecidos pela empresa.',
-    language: 'WordPress,Elementor.',
+    Missão: 'O site da ESTETITEC ESTÉTICA GOIÁS foi desenvolvido para comunicar de forma clara e profissional os serviços de manutenção técnica especializada oferecidos pela empresa.',
+    Linguagem: 'WordPress,Elementor.',
     images: 'estetitec.png',
     link: 'https://estetitecgoias.com.br/'
   },
   {
     name: 'Loja Cloud',
     des: 'Desenvolvido com Elementor no WordPress, o layout é otimizado para oferecer uma experiência de compra intuitiva e acessível, adaptando-se a diferentes tamanhos de tela e dispositivos, garantindo uma navegação fluida e a visualização adequada dos produtos.',
-    mission: 'O site da Loja Cloud tem como missão fornecer uma plataforma online confiável e amigável, onde os clientes podem encontrar uma variedade de produtos de qualidade, com informações claras e um processo de compra simplificado.',
-    language: 'WordPress,Elementor,Php',
+    Missão: 'O site da Loja Cloud tem como missão fornecer uma plataforma online confiável e amigável, onde os clientes podem encontrar uma variedade de produtos de qualidade, com informações claras e um processo de compra simplificado.',
+    Linguagem: 'WordPress,Elementor,Php',
     images: 'drop.png',
     link: 'https://lojacloud.com.br/'
   }
