@@ -50,7 +50,7 @@ const [listProjects] = useState([
     des: 'Essa plataforma de marketplace foi projetada com cuidado para conectar compradores e vendedores de maneira segura e eficiente. Com uma interface intuitiva e recursos práticos, é possível anunciar produtos e serviços com facilidade, maximizando suas oportunidades de negócio.',
     mission: 'Facilitar conexões entre compradores e vendedores, promovendo transações seguras, rápidas e descomplicadas, enquanto ampliamos as oportunidades de negócio para todos os nossos usuários.',
     language: 'WordPress,Elementor,Php,html,css,API.',
-    images: 'drop.png',
+    images: 'classificados.png',
     link: 'https://classificadosmedicosbrasil.com.br/'
   }
  
