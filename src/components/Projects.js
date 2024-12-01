@@ -58,7 +58,7 @@ const [listProjects] = useState([
     des: 'Este projeto foi desenvolvido para demonstrar meu conhecimento em Figma e na aplicação de princípios de UX Writing e UX Design. A landing page foi cuidadosamente projetada para oferecer uma experiência intuitiva, combinando textos claros e objetivos que guiam o usuário em cada etapa, com um design visual atraente e funcional. Os textos foram criados seguindo práticas de UX Writing, priorizando mensagens diretas, consistentes e alinhadas aos objetivos do usuário, garantindo uma navegação fluida e sem fricções.',
     mission: 'Demonstrar habilidades técnicas e criativas no uso do Figma, integrando UX Writing para criar textos estratégicos que complementam o design, promovendo uma navegação eficiente, acessível e centrada no usuário.',
     language: 'Figma',
-    images: 'Landing.jpg',
+    images: 'Landing.JPG',
     link: 'https://www.figma.com/design/SWT0c3bx7hqsoq4G2qTVbP/PORTIFOLIO-FIGMA?node-id=1-2229&t=6Zy5Z6cfRZPfTtFZ-1'
   }
  
